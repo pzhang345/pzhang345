@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hi, I'm Patrick Zhang. I am currently studying computer science at Northeastern University. 
+
+Feel free to reach out!
+* [Linkedin](https://www.linkedin.com/in/patrick--zhang)
+
 <!--
 **pzhang345/pzhang345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
